@@ -1,0 +1,29 @@
+_repo: The-Square-of-SevensAn-Authoritative-Method-of-Cartomancy-with-a-Prefatory-Note_19687
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Prime-Stevenson, Edward
+    alias: Stevenson, Edward Irenaeus
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '8814'
+    url: http://www.gutenberg.org/2009/agents/8814
+description: ''
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Fortune-telling by cards'
+title: 'The Square of Sevens
+
+  An Authoritative Method of Cartomancy with a Prefatory Note'
+url: http://www.gutenberg.org/ebooks/19687
